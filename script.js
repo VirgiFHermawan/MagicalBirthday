@@ -317,10 +317,10 @@ content.addEventListener('click', function () {
         text.innerHTML = "and I am glad I could take part in ur story.. parts or even chapters";
         play();
     } else if (scene == 42) {
-        text.innerHTML = 'and with these 300 stars,...';
+        text.innerHTML = 'and with these 3000 stars,...';
         play();
     } else if (scene == 43) {
-        text.innerHTML = 'I wish you...';
+        text.innerHTML = 'I wish you always happy :)';
         firefliesF();
     } else if (scene == 44) {
         document.body.classList.add('fireflies');
